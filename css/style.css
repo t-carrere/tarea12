@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+#reloj 
+{ 
+    width: 150px; 
+    height: 30px;  
+    border: 1px solid black; 
+    font: 30px dotum; 
+    text-align: center;
+    padding: 20px;
+}
